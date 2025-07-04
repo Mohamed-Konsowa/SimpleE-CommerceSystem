@@ -1,6 +1,6 @@
 # E-Commerce System
 
-A simple console-based E-Commerce system written in C#.  
+A simple console-based E-Commerce system written in C#.
 
 ---
 
@@ -15,18 +15,18 @@ A simple console-based E-Commerce system written in C#.
 
 ---
 
-
 ## Architecture
 
 - `Entities/` – Core domain models
 - `Repositories/` – Data access and management
-- `Services/` – Business logic 
-- `Interfaces/` – Interface definitions 
+- `Services/` – Business logic
+- `Interfaces/` – Interface definitions
 
 ---
 
-## 🧪 Sample Output
+## Sample Output
 
+```
 ** Shipment notice **
 1x TV      10000g
 5x Cheese      1250g
@@ -41,3 +41,4 @@ Subtotal    195.5
 Shipping    5.625
 Amount      201.125
 Balance after payment  98.875
+```
