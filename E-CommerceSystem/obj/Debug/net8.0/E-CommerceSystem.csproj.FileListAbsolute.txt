@@ -1,0 +1,14 @@
+D:\Fawry_Task\E-CommerceSystem\E-CommerceSystem\bin\Debug\net8.0\E-CommerceSystem.exe
+D:\Fawry_Task\E-CommerceSystem\E-CommerceSystem\bin\Debug\net8.0\E-CommerceSystem.deps.json
+D:\Fawry_Task\E-CommerceSystem\E-CommerceSystem\bin\Debug\net8.0\E-CommerceSystem.runtimeconfig.json
+D:\Fawry_Task\E-CommerceSystem\E-CommerceSystem\bin\Debug\net8.0\E-CommerceSystem.dll
+D:\Fawry_Task\E-CommerceSystem\E-CommerceSystem\bin\Debug\net8.0\E-CommerceSystem.pdb
+D:\Fawry_Task\E-CommerceSystem\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fawry_Task\E-CommerceSystem\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.AssemblyInfoInputs.cache
+D:\Fawry_Task\E-CommerceSystem\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.AssemblyInfo.cs
+D:\Fawry_Task\E-CommerceSystem\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.csproj.CoreCompileInputs.cache
+D:\Fawry_Task\E-CommerceSystem\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.dll
+D:\Fawry_Task\E-CommerceSystem\E-CommerceSystem\obj\Debug\net8.0\refint\E-CommerceSystem.dll
+D:\Fawry_Task\E-CommerceSystem\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.pdb
+D:\Fawry_Task\E-CommerceSystem\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.genruntimeconfig.cache
+D:\Fawry_Task\E-CommerceSystem\E-CommerceSystem\obj\Debug\net8.0\ref\E-CommerceSystem.dll
